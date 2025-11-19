@@ -61,7 +61,4 @@ Um cabeçalho contendo:
 
 Este projeto prepara você para construir layouts completos, barras de navegação profissionais e estruturas comuns em sites modernos.
 
----
 
-Se quiser, posso criar também:
-✨ versão com badges | 📸 versão com preview | 📘 versão para portfólio.
